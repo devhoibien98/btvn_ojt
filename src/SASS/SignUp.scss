@@ -1,0 +1,22 @@
+.signup-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #ece9e99c;
+  text-align: center;
+}
+
+.signup-title {
+  margin-bottom: 24px;
+}
+
+.signup-form {
+  width: 100%;
+  max-width: 400px;
+}
+
+.signup-button {
+  margin-top: 16px;
+}
